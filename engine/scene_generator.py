@@ -54,4 +54,5 @@ class SceneGenerator:
         elif "desert" in prompt.lower():
             return {"fog_density": 0.1, "ambient": "warm"}
         return {"fog_density": 0.2, "ambient": "soft"}
-    
+
+
