@@ -34,6 +34,7 @@
 
 
 
+
 """
 scene_generator.py — builds dream-like 3D scenes from text prompts.
 """
